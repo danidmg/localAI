@@ -4,7 +4,7 @@
 quickly bootstraps a fully featured Local AI and Low Code development
 environment including Ollama for your local LLMs, Open WebUI for an interface to chat with your N8N agents, and Supabase for your database, vector store, and authentication. 
 
-This is Cole's version with a couple of improvements and the addition of Supabase, Open WebUI, Flowise, SearXNG, and Caddy!
+This is Cole's version with a couple of improvements and the addition of Supabase, Open WebUI!
 Postgres was also removed since Supabase runs Postgres under the hood.
 
 ## Important Links
